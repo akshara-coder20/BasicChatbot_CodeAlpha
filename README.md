@@ -27,7 +27,7 @@ The objective of this project is to understand the fundamentals of chatbot devel
 
 ## Project Files
 
-* chatbot.py – Main Python source code
+* basic_chatbot.py – Main Python source code
 * README.md – Project documentation
 
 ## Sample Output
