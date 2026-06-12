@@ -19,7 +19,7 @@ def chatbot():
         elif user == "what can you do":
             print("Bot: I can answer simple questions.")
 
-        elif user == " bye":
+        elif user == "bye":
             print("Bot: Goodbye! Have a nice day.")
             break
 
